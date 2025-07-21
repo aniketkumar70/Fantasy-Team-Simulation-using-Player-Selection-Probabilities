@@ -61,4 +61,16 @@ This repository contains a Python-based solution for simulating approximately **
 
 ---
 
-## Example Evaluation Output
+
+---
+
+## Requirements
+
+- Python 3.x
+- pandas, numpy
+- pulp (for optimization)
+- plotly (for interactive visualization, optional)
+
+
+---
+
