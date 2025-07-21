@@ -61,9 +61,6 @@ This repository contains a Python-based solution for simulating approximately **
 
 ---
 
-
----
-
 ## Requirements
 
 - Python 3.x
