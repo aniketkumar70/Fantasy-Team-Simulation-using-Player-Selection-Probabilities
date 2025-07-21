@@ -1,6 +1,6 @@
 # Fantasy Team Simulation using Player Selection Probabilities
 
-_A Data Science Internship Assignment_
+
 
 ---
 
